@@ -19,7 +19,6 @@ All code, practice notebooks, and summary notes from my videos are organized her
 ### 🤝 Connect & Grow
 - 📺 [YouTube: Buddy4Skills](https://www.youtube.com/@buddy4skills)
 - 📸 [Instagram: @buddy4skills](https://instagram.com/buddy4skills)
-- 📧 [Email: buddy4skills@gmail.com](mailto:buddy4skills@gmail.com)
 
 ### 📊 My GitHub Stats
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddy4Skills&layout=compact&theme=vision-color-dark)
